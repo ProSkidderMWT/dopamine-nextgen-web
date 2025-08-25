@@ -1,1 +1,1 @@
-[release_version=nextgen-1]
+[release_version=nextgen-2]
